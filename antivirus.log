@@ -1,0 +1,13 @@
+2024-12-22 13:31:27,813 - INFO - Klasör seçildi: C:/Users/ynsdm/OneDrive/Masaüstü/erasmus staj
+2024-12-22 13:32:02,722 - INFO - Karantina taranýyor...
+2024-12-22 13:32:02,724 - ERROR - Virüs tespit edildi ve silindi: ./quarantine\eicar.txt
+2024-12-22 13:32:02,725 - INFO - Tarama sonuçlarý 'results.json' dosyasýna kaydedildi.
+2024-12-22 13:32:44,096 - INFO - Karantina taranýyor...
+2024-12-22 13:32:44,097 - INFO - Tarama sonuçlarý 'results.json' dosyasýna kaydedildi.
+2024-12-22 13:33:00,411 - INFO - Klasör seçildi: C:/Users/ynsdm/OneDrive/Masaüstü/erasmus staj
+2024-12-22 13:33:06,446 - INFO - Karantina taranýyor...
+2024-12-22 13:33:06,451 - INFO - Tarama sonuçlarý 'results.json' dosyasýna kaydedildi.
+2024-12-22 13:34:35,842 - INFO - Klasör seçildi: C:/Users/ynsdm/OneDrive/Masaüstü/erasmus staj
+2024-12-22 13:34:52,195 - INFO - Karantina taranýyor...
+2024-12-22 13:34:52,196 - ERROR - Virüs tespit edildi ve silindi: ./quarantine\eicar.txt
+2024-12-22 13:34:52,197 - INFO - Tarama sonuçlarý 'results.json' dosyasýna kaydedildi.
